@@ -1,6 +1,7 @@
 # AI News Impact Report
 
 Weekly AI news digest with impact scoring and categorization.
+https://szhaoai.github.io/ainews/
 
 ## GitHub Pages Setup
 
