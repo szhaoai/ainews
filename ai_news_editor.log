@@ -1,0 +1,20 @@
+2026-01-08 12:18:23,867 - INFO - Starting AI news report generation...
+2026-01-08 12:18:23,868 - INFO - Time window: 2026-01-07 12:18:23.867842 to 2026-01-08 12:18:23.867842
+2026-01-08 12:18:23,868 - INFO - Generating report for 2026-01-07 12:18:23.867842 to 2026-01-08 12:18:23.867842
+2026-01-08 12:18:25,404 - INFO - Fetched 794 items from OpenAI Blog
+2026-01-08 12:18:27,345 - INFO - Fetched 25 items from Google AI Blog
+2026-01-08 12:18:28,984 - ERROR - Error fetching Meta AI Blog: 404 Client Error: Not Found for url: https://ai.meta.com/blog/rss.xml/
+2026-01-08 12:18:30,228 - ERROR - Error fetching Anthropic Blog: 404 Client Error: Not Found for url: https://www.anthropic.com/rss.xml
+2026-01-08 12:18:31,705 - ERROR - Error fetching DeepMind: 404 Client Error: Not Found for url: https://deepmind.google/blog/rss/
+2026-01-08 12:18:32,983 - INFO - Fetched 10 items from Microsoft AI
+2026-01-08 12:18:34,119 - INFO - Fetched 20 items from TechCrunch
+2026-01-08 12:18:35,373 - INFO - Fetched 10 items from The Verge
+2026-01-08 12:18:36,611 - INFO - Fetched 50 items from Wired
+2026-01-08 12:18:37,787 - INFO - Fetched 10 items from MIT Technology Review AI
+2026-01-08 12:18:39,093 - ERROR - Error fetching VentureBeat AI: 404 Client Error: Not Found for url: https://venturebeat.com/ai/feed
+2026-01-08 12:18:40,295 - INFO - Fetched 20 items from Ars Technica AI
+2026-01-08 12:18:41,874 - INFO - Fetched 50 items from arXiv AI
+2026-01-08 12:18:44,870 - INFO - Fetched 30 items from arXiv ML
+2026-01-08 12:18:47,172 - INFO - Fetched 22 items from EU AI Act
+2026-01-08 12:18:49,346 - ERROR - Error fetching Reuters AI: 404 Client Error: Not Found for url: https://reutersagency.com/feed/?taxonomy=category&category=technology
+2026-01-08 12:18:49,347 - ERROR - Fatal error: can't compare offset-naive and offset-aware datetimes

@@ -1,0 +1,231 @@
+{
+  "date_range": {
+    "start_iso": "2026-01-07T13:46:50.541997+00:00",
+    "end_iso": "2026-01-14T13:46:50.541997+00:00",
+    "timezone": "UTC"
+  },
+  "editorial_thesis": "AI news dominated by research stories.",
+  "method": {
+    "deduping": "Text similarity clustering",
+    "ranking": "Impact scoring (0-100)",
+    "verification": "Source credibility weighting"
+  },
+  "top_stories": [
+    {
+      "rank": 1,
+      "story_id": "meetthenewbiologiststreatingllmslikealiens",
+      "headline": "Meet the new biologists treating LLMs like aliens",
+      "impact_score": 27,
+      "category": "Model Release",
+      "what_happened": "A new AI model was announced with enhanced capabilities.",
+      "why_it_matters": [
+        "Introduces new capabilities",
+        "May lower costs or improve performance"
+      ],
+      "what_to_watch": [
+        "Adoption rate and real-world deployment",
+        "Community and developer response",
+        "Benchmark results"
+      ],
+      "confidence": "MEDIUM",
+      "sources": {
+        "primary": [
+          {
+            "title": "Meet the new biologists treating LLMs like aliens",
+            "url": "https://www.technologyreview.com/2026/01/12/1129782/ai-large-language-models-biology-alien-autopsy/",
+            "publisher": "MIT Technology Review AI"
+          }
+        ],
+        "secondary": []
+      }
+    },
+    {
+      "rank": 2,
+      "story_id": "hyperscaleaidatacenters10breakthroughtechnologies2026",
+      "headline": "Hyperscale AI data centers: 10 Breakthrough Technologies 2026",
+      "impact_score": 27,
+      "category": "Research",
+      "what_happened": "Researchers published new findings advancing AI.",
+      "why_it_matters": [
+        "Advances scientific understanding",
+        "Enables new applications"
+      ],
+      "what_to_watch": [
+        "Adoption rate and real-world deployment",
+        "Community and developer response"
+      ],
+      "confidence": "MEDIUM",
+      "sources": {
+        "primary": [
+          {
+            "title": "Hyperscale AI data centers: 10 Breakthrough Technologies 2026",
+            "url": "https://www.technologyreview.com/2026/01/12/1129982/hyperscale-ai-data-centers-energy-usage-2026-breakthrough-technology/",
+            "publisher": "MIT Technology Review AI"
+          }
+        ],
+        "secondary": []
+      }
+    },
+    {
+      "rank": 3,
+      "story_id": "aicompanions10breakthroughtechnologies2026",
+      "headline": "AI companions: 10 Breakthrough Technologies 2026",
+      "impact_score": 27,
+      "category": "Research",
+      "what_happened": "Researchers published new findings advancing AI.",
+      "why_it_matters": [
+        "Advances scientific understanding",
+        "Enables new applications"
+      ],
+      "what_to_watch": [
+        "Adoption rate and real-world deployment",
+        "Community and developer response"
+      ],
+      "confidence": "MEDIUM",
+      "sources": {
+        "primary": [
+          {
+            "title": "AI companions: 10 Breakthrough Technologies 2026",
+            "url": "https://www.technologyreview.com/2026/01/12/1130018/ai-companions-chatbots-relationships-2026-breakthrough-technology/",
+            "publisher": "MIT Technology Review AI"
+          }
+        ],
+        "secondary": []
+      }
+    },
+    {
+      "rank": 4,
+      "story_id": "generativecoding10breakthroughtechnologies2026",
+      "headline": "Generative coding: 10 Breakthrough Technologies 2026",
+      "impact_score": 27,
+      "category": "Research",
+      "what_happened": "Researchers published new findings advancing AI.",
+      "why_it_matters": [
+        "Advances scientific understanding",
+        "Enables new applications"
+      ],
+      "what_to_watch": [
+        "Adoption rate and real-world deployment",
+        "Community and developer response"
+      ],
+      "confidence": "MEDIUM",
+      "sources": {
+        "primary": [
+          {
+            "title": "Generative coding: 10 Breakthrough Technologies 2026",
+            "url": "https://www.technologyreview.com/2026/01/12/1130027/generative-coding-ai-software-2026-breakthrough-technology/",
+            "publisher": "MIT Technology Review AI"
+          }
+        ],
+        "secondary": []
+      }
+    },
+    {
+      "rank": 5,
+      "story_id": "microsoftannouncesglutofnewdatacentersbutsaysitwontletyourelectricitybillgoup",
+      "headline": "Microsoft announces glut of new data centers but says it won\u2019t let your electricity bill go up",
+      "impact_score": 20,
+      "category": "Research",
+      "what_happened": "Researchers published new findings advancing AI.",
+      "why_it_matters": [
+        "Advances scientific understanding",
+        "Enables new applications"
+      ],
+      "what_to_watch": [
+        "Adoption rate and real-world deployment",
+        "Community and developer response"
+      ],
+      "confidence": "MEDIUM",
+      "sources": {
+        "primary": [
+          {
+            "title": "Microsoft announces glut of new data centers but says it won\u2019t let your electricity bill go up",
+            "url": "https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/",
+            "publisher": "TechCrunch"
+          }
+        ],
+        "secondary": []
+      }
+    },
+    {
+      "rank": 6,
+      "story_id": "airdoctorcouponcodes40offjanuary2026",
+      "headline": "AirDoctor Coupon Codes: 40% Off | January 2026",
+      "impact_score": 20,
+      "category": "Other",
+      "what_happened": "AirDoctor Coupon Codes: 40% Off | January 2026",
+      "why_it_matters": [
+        "Notable development in AI"
+      ],
+      "what_to_watch": [
+        "Adoption rate and real-world deployment",
+        "Community and developer response"
+      ],
+      "confidence": "MEDIUM",
+      "sources": {
+        "primary": [
+          {
+            "title": "AirDoctor Coupon Codes: 40% Off | January 2026",
+            "url": "https://www.wired.com/story/airdoctor-coupon-code/",
+            "publisher": "Wired"
+          }
+        ],
+        "secondary": []
+      }
+    },
+    {
+      "rank": 7,
+      "story_id": "gofundmeignoresownrulesbyhostingalegaldefensefundfortheiceagentwhokilledreneegood",
+      "headline": "GoFundMe Ignores Own Rules by Hosting a Legal-Defense Fund for the ICE Agent Who Killed Renee Good",
+      "impact_score": 20,
+      "category": "Security",
+      "what_happened": "A security vulnerability was identified in AI systems.",
+      "why_it_matters": [
+        "Exposes risks to deployed systems",
+        "Requires immediate attention"
+      ],
+      "what_to_watch": [
+        "Adoption rate and real-world deployment",
+        "Community and developer response"
+      ],
+      "confidence": "MEDIUM",
+      "sources": {
+        "primary": [
+          {
+            "title": "GoFundMe Ignores Own Rules by Hosting a Legal-Defense Fund for the ICE Agent Who Killed Renee Good",
+            "url": "https://www.wired.com/story/gofundme-ice-jonathan-ross-renee-good-fundraiser/",
+            "publisher": "Wired"
+          }
+        ],
+        "secondary": []
+      }
+    }
+  ],
+  "notable_mentions": [
+    {
+      "headline": "15 Best Office Chairs of 2026\u2014 I\u2019ve Tested Nearly 65 to Pick Them",
+      "one_line": "15 Best Office Chairs of 2026\u2014 I\u2019ve Tested Nearly 65 to Pick Them",
+      "category": "Other"
+    },
+    {
+      "headline": "WIRED Tested Dozens of Blenders. These Are Our 8 Favorites (2026)",
+      "one_line": "WIRED Tested Dozens of Blenders. These Are Our 8 Favorites (2026)",
+      "category": "Other"
+    },
+    {
+      "headline": "How AI Companies Got Caught Up in US Military Efforts",
+      "one_line": "Researchers published new findings advancing AI.",
+      "category": "Research"
+    },
+    {
+      "headline": "SkyFi raises $12.7M to turn satellite images into insights",
+      "one_line": "SkyFi raises $12.7M to turn satellite images into insights",
+      "category": "Other"
+    },
+    {
+      "headline": "7 Best Phones You Can\u2019t Buy in the US (2026), Tested and Reviewed",
+      "one_line": "7 Best Phones You Can\u2019t Buy in the US (2026), Tested and Reviewed",
+      "category": "Business"
+    }
+  ]
+}
